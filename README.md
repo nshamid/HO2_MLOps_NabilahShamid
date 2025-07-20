@@ -2,7 +2,7 @@
 
 ## Pendahuluan
 
-Hands-On kedua ini bertujuan untuk membangun sistem rekomendasi sederhana berbasis kemiripan teks. [cite_start]Sistem ini dirancang untuk menyarankan lowongan pekerjaan yang paling relevan berdasarkan preferensi atau kebutuhan pengguna[cite: 22]. [cite_start]Pendekatan utama yang digunakan dalam pengerjaan ini adalah **Content-Based Filtering**, di mana rekomendasi diberikan berdasarkan kemiripan antara item yang pernah disukai dengan item lainnya [cite: 27][cite_start], dihitung dari fitur atau atribut item seperti deskripsi teks, kategori, atau tag[cite: 28]. [cite_start]Data yang digunakan dalam Hands-On ini merupakan hasil *preprocessing* dari Hands-On 1[cite: 14].
+Hands-On kedua ini bertujuan untuk membangun sistem rekomendasi sederhana berbasis kemiripan teks. Sistem ini dirancang untuk menyarankan lowongan pekerjaan yang paling relevan berdasarkan preferensi atau kebutuhan pengguna. Pendekatan utama yang digunakan dalam pengerjaan ini adalah **Content-Based Filtering**, di mana rekomendasi diberikan berdasarkan kemiripan antara item yang pernah disukai dengan item lainnya, dihitung dari fitur atau atribut item seperti deskripsi teks, kategori, atau tag. Data yang digunakan dalam Hands-On ini merupakan hasil *preprocessing* dari Hands-On 1.
 
 ## Data yang Digunakan
 
